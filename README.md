@@ -1,4 +1,4 @@
-# Boilermaker
+# Weather App
 
 _Good things come in pairs_
 
